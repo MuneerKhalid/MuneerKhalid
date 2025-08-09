@@ -1,39 +1,7 @@
-<!-- 🌌 Cosmic Orbiting Header -->
-<div align="center" style="position: relative; overflow: hidden; height: 300px; background: radial-gradient(circle at center, #0f2027, #203a43, #2c5364); border-radius: 15px; padding-top: 40px;">
-
-  <!-- Orbit Containers -->
-  <div style="position:absolute; width:300px; height:300px; animation: spin 20s linear infinite;">
-    <img src="https://skillicons.dev/icons?i=react" width="40" style="position:absolute; top:0; left:50%; transform:translate(-50%, -50%);">
-    <img src="https://skillicons.dev/icons?i=nodejs" width="40" style="position:absolute; top:50%; right:0; transform:translate(50%, -50%);">
-    <img src="https://skillicons.dev/icons?i=python" width="40" style="position:absolute; bottom:0; left:50%; transform:translate(-50%, 50%);">
-    <img src="https://skillicons.dev/icons?i=nextjs" width="40" style="position:absolute; top:50%; left:0; transform:translate(-50%, -50%);">
-  </div>
-
-  <div style="position:absolute; width:200px; height:200px; animation: spinReverse 15s linear infinite;">
-    <img src="https://skillicons.dev/icons?i=graphql" width="35" style="position:absolute; top:0; left:50%; transform:translate(-50%, -50%);">
-    <img src="https://skillicons.dev/icons?i=typescript" width="35" style="position:absolute; bottom:0; left:50%; transform:translate(-50%, 50%);">
-  </div>
-
-  <!-- Name (Star) -->
-  <h1 style="font-size: 60px; color: white; font-family: 'Poppins', sans-serif; font-weight: 700; letter-spacing: 2px; text-shadow: 0 0 25px rgba(255,255,255,0.8); position:relative; z-index:1;">
-    ☀️ Muneer Khalid
-  </h1>
-  <p style="color: #f1f1f1; font-size: 20px; margin-top: -10px; position:relative; z-index:1;">Full Stack Developer | AI & ML Enthusiast</p>
-</div>
-
-<!-- Orbit Animations -->
-<style>
-@keyframes spin {
-  0% { transform: rotate(0deg);}
-  100% { transform: rotate(360deg);}
-}
-@keyframes spinReverse {
-  0% { transform: rotate(360deg);}
-  100% { transform: rotate(0deg);}
-}
-</style>
-
----
+<!-- 🌌 Animated Orbiting Planets + Stars Header -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Muneerkhalid/Muneerkhalid/main/space-header.svg" alt="Orbit Animation" width="100%">
+</p>
 
 <!-- Snake Contribution Graph -->
 <p align="center">
