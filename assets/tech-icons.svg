@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="display:none;">
+  <!-- React -->
+  <symbol id="icon-react" viewBox="0 0 841.9 595.3">
+    <circle cx="420.9" cy="296.5" r="50" fill="#61dafb"/>
+    <g fill="none" stroke="#61dafb" stroke-width="30">
+      <ellipse rx="165" ry="380" cx="420.9" cy="296.5" transform="rotate(60 420.9 296.5)"/>
+      <ellipse rx="165" ry="380" cx="420.9" cy="296.5" transform="rotate(-60 420.9 296.5)"/>
+      <ellipse rx="165" ry="380" cx="420.9" cy="296.5"/>
+    </g>
+  </symbol>
+
+  <!-- Node.js -->
+  <symbol id="icon-node" viewBox="0 0 256 272">
+    <path fill="#83CD29" d="M128 .1l128 74v124l-128 74L0 198.1V74z"/>
+    <path fill="#fff" d="M195 195c-6 0-10-4-10-10V98c0-6 4-10 10-10s10 4 10 10v87c0 6-4 10-10 10z"/>
+  </symbol>
+
+  <!-- Python -->
+  <symbol id="icon-python" viewBox="0 0 512 512">
+    <path fill="#3776AB" d="M234 0c-96 0-88 42-88 42v92h176V66c0-48-24-66-88-66z"/>
+    <path fill="#FFD43B" d="M278 512c96 0 88-42 88-42v-92H190v68c0 48 24 66 88 66z"/>
+  </symbol>
+
+  <!-- JavaScript -->
+  <symbol id="icon-js" viewBox="0 0 630 630">
+    <rect width="630" height="630" fill="#f7df1e"/>
+    <path d="M423 492c-3 9-9 16-18 20-12 5-26 2-35-7-4-4-6-9-8-14l-37 21c3 14 11 27 23 35 27 18 63 10 81-17 8-12 12-26 12-40V297h-38v195z"/>
+    <path d="M253 491c-5 10-12 18-23 23-14 6-31 4-42-6-6-6-10-13-12-21l-37 21c4 14 12 28 24 37 28 21 68 17 89-10 10-14 15-31 15-48V297h-38v194z"/>
+  </symbol>
+
+  <!-- HTML5 -->
+  <symbol id="icon-html5" viewBox="0 0 512 512">
+    <path fill="#E34F26" d="M71 460L30 0h452l-41 460-185 52"/>
+    <path fill="#EF652A" d="M256 472l149-41 35-394H256"/>
+    <path fill="#fff" d="M256 208h74l5-56h-79V96h144l-2 22-14 156H256"/>
+  </symbol>
+
+  <!-- CSS3 -->
+  <symbol id="icon-css3" viewBox="0 0 512 512">
+    <path fill="#264de4" d="M71 460L30 0h452l-41 460-185 52"/>
+    <path fill="#2965f1" d="M256 472l149-41 35-394H256"/>
+    <path fill="#ebebeb" d="M256 208h74l5-56h-79V96h144l-2 22-14 156H256"/>
+  </symbol>
+</svg>
