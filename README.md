@@ -43,7 +43,7 @@ const muneer = {
     name: "Muneer Khalid",
     title: "Full Stack Developer & AI Engineer",
     location: "Pakistan 🇵🇰",
-    experience: "5+ years",
+    experience: "1+ year",
     passion: ["Clean Code", "AI Innovation", "Open Source"],
     currentFocus: "Building scalable AI-powered applications",
     motto: "Code is poetry, bugs are just plot twists! 🐛✨"
