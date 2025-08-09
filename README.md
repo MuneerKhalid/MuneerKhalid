@@ -1,71 +1,79 @@
-<!-- Animated Banner -->
+<!-- Full Gradient Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=9B59B6&center=true&vCenter=true&width=800&lines=Hey+There!+👋;I'm+Muneer+Khalid;Full+Stack+Developer+%F0%9F%92%BB;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Let's+Build+Something+Awesome!+🚀" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=Muneer%20Khalid&fontSize=50&fontColor=fff&animation=fadeIn" />
 </p>
 
-<!-- Profile Views -->
+<!-- Floating Particle Background Effect -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Muneerkhalid&label=Profile+Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
-<!-- Wavy Divider -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9B59B6&height=80&section=header"/>
-
-## 🌟 About Me  
-💡 Passionate about **building scalable web apps**, **AI/ML solutions**, and **pixel-perfect UIs**.  
-⚡ Constantly exploring **cutting-edge tech** and learning **new frameworks**.  
-🎯 Goal for 2025: Build and launch **5+ impactful open-source projects**.  
-
----
-
-## 🌐 Connect with Me  
+<!-- Neon Typing Intro -->
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=500&color=00F0FF&background=00000000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+%F0%9F%92%BB;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Creating+Digital+Magic+Since+2019+✨;Open+Source+Contributor+%F0%9F%9A%80" alt="Typing Animation" />
+</p>
+
+<!-- Social Links -->
+<p align="center">
+<a href="https://linkedin.com/in/muneer-khalid-489079215"><img src="https://img.shields.io/badge/LinkedIn-00A0DC?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/Muneerkhalid_"><img src="https://img.shields.io/badge/Instagram-FF006E?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://facebook.com/muneer.ansari.1422?mibextid=ZbWKwL"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="https://instagram.com/Muneerkhalid_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://linkedin.com/in/muneer-khalid-489079215"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
 
-## 💻 Tech Arsenal  
+<!-- Neon About Me -->
+<h2 align="center">💡 About Me</h2>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,python,nodejs,express,mongodb,mysql,bootstrap,tailwind,docker,kubernetes,figma" />
+I'm a passionate software engineer crafting **scalable apps** and **AI-powered experiences**.<br/>
+My toolbox includes **Next.js**, **React**, **Node.js**, and **Python ML**.<br/>
+I believe in **code that not only works but inspires**.
 </p>
 
 ---
 
-## 📊 GitHub Analytics  
+<!-- Animated Skills -->
+<h2 align="center">🚀 Tech Arsenal</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muneerkhalid&show_icons=true&theme=tokyonight&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muneerkhalid&theme=tokyonight" height="180"/>
-</p>  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muneerkhalid&layout=compact&theme=tokyonight&langs_count=8"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,typescript,javascript,python,flask,mongodb,mysql,tailwind,bootstrap,docker,graphql,git,figma&perline=8" />
 </p>
 
 ---
 
-## 🏆 GitHub Achievements  
+<!-- Animated GitHub Stats -->
+<h2 align="center">📊 GitHub Analytics</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Muneerkhalid&theme=onestar&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Muneerkhalid&show_icons=true&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Muneerkhalid&theme=radical&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muneerkhalid&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 ---
 
-## ✍️ Developer Quote  
+<!-- Trophy Case -->
+<h2 align="center">🏆 GitHub Achievements</h2>
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Muneerkhalid&theme=matrix&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-## 😂 A Dev Meme for You  
+<!-- Animated Quote -->
+<h2 align="center">✨ Developer Wisdom</h2>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+<!-- Funny Meme -->
+<h2 align="center">😂 A Dev Meme for You</h2>
 <p align="center">
   <img src="https://randommeme-five.vercel.app/" width="400"/>
 </p>
 
----
-
-<!-- Wavy Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9B59B6&height=80&section=footer"/>
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
