@@ -1,22 +1,16 @@
-<!-- 🌌 Animated Orbiting Planets + Stars Header -->
+<!-- Full Gradient Animated Banner -->
 <p align="center">
-  <!-- Starfield background -->
-  <img src="./assets/starfield.svg" alt="Starfield background" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=Muneer%20Khalid&fontSize=50&fontColor=fff&animation=fadeIn" />
 </p>
 
-<p align="center">
-  <!-- Orbiting icons animation -->
-  <img src="./assets/tech-icons-sprite.svg" alt="Orbiting tech icons" width="600px">
-</p>
-
-<!-- Snake Contribution Graph -->
+<!-- Floating Particle Background Effect -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
-<!-- Typing Intro -->
+<!-- Neon Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=500&color=00D1FF&background=00000000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+%F0%9F%92%BB;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Building+the+Future+One+Commit+at+a+Time+🚀;Open+Source+Contributor+🌍" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=500&color=00F0FF&background=00000000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+%F0%9F%92%BB;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Creating+Digital+Magic+Since+2019+✨;Open+Source+Contributor+%F0%9F%9A%80" alt="Typing Animation" />
 </p>
 
 <!-- Social Links -->
@@ -28,47 +22,55 @@
 
 ---
 
-## 💡 About Me
-I'm a passionate software engineer building **scalable apps** and **AI-powered solutions**.<br/>
-Specializing in **Next.js**, **React**, **Node.js**, and **Python ML**.<br/>
-I believe in **writing code that inspires, not just works**.
+<!-- Neon About Me -->
+<h2 align="center">💡 About Me</h2>
+<p align="center">
+I'm a passionate software engineer crafting **scalable apps** and **AI-powered experiences**.<br/>
+My toolbox includes **Next.js**, **React**, **Node.js**, and **Python ML**.<br/>
+I believe in **code that not only works but inspires**.
+</p>
 
 ---
 
-## 🚀 Tech Arsenal
+<!-- Animated Skills -->
+<h2 align="center">🚀 Tech Arsenal</h2>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,typescript,javascript,python,flask,mongodb,mysql,tailwind,bootstrap,docker,graphql,git,figma&perline=8" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+<!-- Animated GitHub Stats -->
+<h2 align="center">📊 GitHub Analytics</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muneerkhalid&show_icons=true&theme=random&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Muneerkhalid&theme=random&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Muneerkhalid&show_icons=true&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Muneerkhalid&theme=radical&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muneerkhalid&layout=compact&theme=random&hide_border=true"/>
-</p>
-
----
-
-## 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Muneerkhalid&theme=algolia&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muneerkhalid&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 ---
 
-## ✨ Developer Wisdom
+<!-- Trophy Case -->
+<h2 align="center">🏆 GitHub Achievements</h2>
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Muneerkhalid&theme=matrix&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-## 😂 A Dev Meme for You
+<!-- Animated Quote -->
+<h2 align="center">✨ Developer Wisdom</h2>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+<!-- Funny Meme -->
+<h2 align="center">😂 A Dev Meme for You</h2>
 <p align="center">
   <img src="https://randommeme-five.vercel.app/" width="400"/>
 </p>
