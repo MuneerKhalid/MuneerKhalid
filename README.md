@@ -1,6 +1,12 @@
 <!-- 🌌 Animated Orbiting Planets + Stars Header -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Muneerkhalid/Muneerkhalid/main/space-header.svg" alt="Orbit Animation" width="100%">
+  <!-- Starfield background -->
+  <img src="./assets/starfield.svg" alt="Starfield background" width="100%">
+</p>
+
+<p align="center">
+  <!-- Orbiting icons animation -->
+  <img src="./assets/tech-icons-sprite.svg" alt="Orbiting tech icons" width="600px">
 </p>
 
 <!-- Snake Contribution Graph -->
