@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- 3D Holographic Header with Particle Effects -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,25,30&height=350&section=header&text=MUNEER%20KHALID&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=30&desc=%E2%9A%A1%20DIGITAL%20ARCHITECT%20%E2%9A%A1%20AI%20WIZARD%20%E2%9A%A1%20CODE%20SORCERER%20%E2%9A%A1&descAlignY=55&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,25,30&height=300&section=header&text=MUNEER%20KHALID&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=30&desc=%E2%9A%A1%20DIGITAL%20ARCHITECT%20%E2%9A%A1%20AI%20WIZARD%20%E2%9A%A1%20CODE%20SORCERER%20%E2%9A%A1&descAlignY=55&descSize=20"/>
 
 <!-- Cyberpunk Matrix Rain -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=25&duration=2500&pause=800&color=00FFFF&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=%F0%9F%A4%96+TRANSFORMING+REALITY+WITH+CODE;%F0%9F%9A%80+BUILDING+THE+MATRIX+OF+TOMORROW;%E2%9A%A1+UNLEASHING+AI+SUPERPOWERS;%F0%9F%94%A5+CRAFTING+DIGITAL+UNIVERSES" alt="Cyber Intro"/>
