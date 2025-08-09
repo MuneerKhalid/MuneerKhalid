@@ -50,7 +50,7 @@ class DigitalWizard:
         self.name = "Muneer Khalid"
         self.title = "Full Stack Sorcerer & AI Alchemist"
         self.location = "🌍 Planet Earth → Pakistan 🇵🇰"
-        self.experience_years = 5
+        self.experience_years = 1
         self.coffee_consumed = "∞ cups ☕"
         self.bugs_squashed = 99999
         self.dreams = ["AGI", "Clean Code", "World Peace"]
@@ -133,32 +133,6 @@ print("🚀 Ready to change the world, one line of code at a time!")
 ## 🏆 **HALL OF FAME** 🏆
 
 <img src="https://github-profile-trophy.vercel.app/?username=Muneerkhalid&theme=onestar&no-frame=true&no-bg=true&margin-w=4&row=3&column=4"/>
-
----
-
-## 🚀 **LEGENDARY PROJECTS** 🚀
-
-<div align="center">
-
-### 🤖 **AI-POWERED MASTERPIECES**
-<a href="https://github.com/Muneerkhalid">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muneerkhalid&repo=AI-ChatBot&theme=tokyonight&hide_border=true&bg_color=0D1117,1a1a2e&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF"/>
-</a>
-&nbsp;
-<a href="https://github.com/Muneerkhalid">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muneerkhalid&repo=ML-Pipeline&theme=tokyonight&hide_border=true&bg_color=0D1117,1a1a2e&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF"/>
-</a>
-
-### 🌐 **FULL-STACK EMPIRES**
-<a href="https://github.com/Muneerkhalid">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muneerkhalid&repo=E-Commerce-Platform&theme=tokyonight&hide_border=true&bg_color=0D1117,1a1a2e&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF"/>
-</a>
-&nbsp;
-<a href="https://github.com/Muneerkhalid">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muneerkhalid&repo=Social-Network&theme=tokyonight&hide_border=true&bg_color=0D1117,1a1a2e&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF"/>
-</a>
-
-</div>
 
 ---
 
