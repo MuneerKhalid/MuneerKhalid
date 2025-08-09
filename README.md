@@ -125,9 +125,6 @@ print("🚀 Ready to change the world, one line of code at a time!")
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muneerkhalid&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_title=true" height="300"/>
 </p>
 
-<!-- Contribution Calendar -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Muneerkhalid&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF" width="50%"/>
-
 ---
 
 ## 🏆 **HALL OF FAME** 🏆
