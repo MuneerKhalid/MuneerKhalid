@@ -91,20 +91,6 @@ while (alive) {
 
 ---
 
-## 💫 **FEATURED PROJECTS** 💫
-
-<div align="center">
-  <a href="https://github.com/Muneerkhalid/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muneerkhalid&repo=AI-ChatBot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF&icon_color=00F5FF"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Muneerkhalid/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Muneerkhalid&repo=E-Commerce-Platform&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF&icon_color=00F5FF"/>
-  </a>
-</div>
-
----
-
 ## 🎯 **WHAT I'M UP TO** 🎯
 
 - 🔭 Currently working on **AI-powered SaaS platforms**
